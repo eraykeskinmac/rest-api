@@ -47,6 +47,7 @@
     "mongoose": "^8.1.0",
     "node-fetch": "^3.3.2"
   },
+
   "devDependencies": {
     "@tsed/cli-plugin-mongoose": "5.0.1",
     "@tsed/testing-mongoose": "^7.57.1",
